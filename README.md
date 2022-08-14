@@ -19,4 +19,4 @@ Final = 0.25 * Projeto 1 + 0.25 * Projeto 2 + 0.2 * Teste 1 + 0.2 * Teste 2 + 0.
 
 | Projeto 1 | Projeto 2 | Teste 1 | Teste 2 | Kahoots | Final
 |---|---|---|---|---|---
-| 20.00 | 20.00 | 15.20 | 18.80 | 19
+| 20.00 | 20.00 | 15.20 | 18.80 | 19.40 | 19
